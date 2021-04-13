@@ -3,4 +3,4 @@
 
 ## 使用方式
 
- 将要获取的问题ID输入questions.txt，运行run.bat，生成的markdown文件将保存到output文件夹。
+ 将要获取的问题ID输入questions.txt(按行分割)，运行run.bat，生成的markdown文件将保存到output文件夹。
